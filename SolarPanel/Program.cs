@@ -10,7 +10,7 @@ namespace SolarPanel
     {
         static void Main(string[] args)
         {
-            //hello word
+            //hello word test
             int[] areas;
             areas = AreaSolarPanel.answer(15324).ToArray();
 
